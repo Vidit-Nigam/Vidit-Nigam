@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vidit_captain" target="blank"><img src="https://img.shields.io/twitter/follow/vidit_captain?logo=twitter&style=for-the-badge" alt="vidit_captain" /></a> </p>
 
-- 🔭 I’m currently working on **INCOME TAX FILLING APP ,INDIA**
+- 🔭 I’m currently working on **INCOME TAX FILLING APP (INDIA)**
 
 - 🌱 I’m currently learning **Android App Development and some core CS Subjects like Computer Networks, OS and DBMS and also improving my coding (DSA) + Aptitude skills.**
 
